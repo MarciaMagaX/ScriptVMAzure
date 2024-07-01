@@ -7,5 +7,5 @@ def read_file(file_path):
         print(f'The file at {file_path} was not found.')
 
 if __name__ == "__main__":
-    file_path = 'example.txt'  # Substitua pelo caminho do seu arquivo
+    file_path = 'hlw.txt'  # Substitua pelo caminho do seu arquivo
     read_file(file_path)
